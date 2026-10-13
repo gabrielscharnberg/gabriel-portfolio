@@ -1,25 +1,24 @@
 # Portfólio — Gabriel Scharnberg
 
-Portfólio pessoal desenvolvido com uma estrutura simples para facilitar manutenção e aprendizado.
+Esse é meu portfólio pessoal, criado para reunir alguns projetos e experiências que venho desenvolvendo na área de tecnologia.
 
-## Estrutura
+A ideia foi fazer algo simples, organizado e fácil de manter, usando apenas HTML, CSS e JavaScript.
 
-- `index.html` — conteúdo e estrutura da página.
-- `css/style.css` — visual, layout e responsividade.
-- `js/script.js` — filtros, detalhes dos projetos, abas e botões de copiar.
-- `assets/imagens/` — imagens usadas pelo site.
-- `assets/icones/` — ícones e favicon.
-- `arquivos/` — currículo e outros arquivos para download.
+Ainda estou no início na área de desenvolvimento, então esse projeto também serve como prática e aprendizado.
 
-## Como visualizar
+## O que tem no projeto
 
-Abra o arquivo `index.html` no navegador.
+- Página principal em HTML
+- Estilos e responsividade com CSS
+- Algumas interações simples com JavaScript
+- Área de projetos
+- Currículo para download
+- Links para GitHub e contato
 
-## Como editar
+## Tecnologias usadas
 
-1. Altere textos e projetos no `index.html`.
-2. Altere cores, tamanhos e layout no `css/style.css`.
-3. Altere interações no `js/script.js` somente quando necessário.
-4. Substitua o currículo mantendo o mesmo nome para não precisar alterar o link da página.
+HTML, CSS e JavaScript.
 
-O projeto não precisa de instalação, terminal ou processo de build para funcionar.
+## Objetivo
+
+Quero ir atualizando esse portfólio aos poucos, conforme eu for aprendendo mais e criando novos projetos.
