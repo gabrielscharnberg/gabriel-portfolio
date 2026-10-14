@@ -1,4 +1,4 @@
-# Portfólio — Gabriel Scharnberg
+# Portfólio - Gabriel Scharnberg
 
 Esse é meu portfólio pessoal, criado para reunir alguns projetos e experiências que venho desenvolvendo na área de tecnologia.
 
